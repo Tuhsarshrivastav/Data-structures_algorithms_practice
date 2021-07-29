@@ -21,3 +21,5 @@ function isSquareCheck(array1, array2) {
 }
 const result = isSquareCheck([1, 2, 3, 4], [1, 9, 4, 25]);
 console.log(result);
+
+// time complexity o[n^2]
